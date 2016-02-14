@@ -1,0 +1,51 @@
+﻿  TheFinalProject.cpp
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(1): warning C4603: 'INT_MAX': macro is not defined or definition is different after precompiled header use
+  c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(1): note: Add macro to precompiled header instead of defining here
+  c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(2): note: use of precompiled header
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\notebank.h(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\notebank.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\notebank.h(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\bend.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(200): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\analyzer.h(278): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(145): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(42): note: see reference to function template instantiation 'std::pair<const _Kty,_Ty>::pair<int,int,void>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=float,
+              _Other1=int,
+              _Other2=int
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(145): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(42): note: see reference to function template instantiation 'std::pair<const _Kty,_Ty>::pair<int,double,void>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=float,
+              _Other1=int,
+              _Other2=double
+          ]
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(119): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(120): warning C4244: '+=': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\mikej\onedrive\documents\visual studio 2015\projects\thefinalproject\thefinalproject\thefinalproject.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  TheFinalProject.vcxproj -> c:\users\mikej\onedrive\documents\visual studio 2015\Projects\TheFinalProject\Debug\TheFinalProject.exe
